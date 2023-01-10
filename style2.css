@@ -137,7 +137,7 @@ footer{
     top: 375px;
     left: 800px;
     
-    z-index: 1;
+
 }
 
 #b1{
@@ -172,11 +172,10 @@ footer{
     cursor: pointer;
 
     position: absolute;
-    left: 1000px;
+    left: 1100px;
 
     opacity: 0;
     
-    z-index=2;
 
 }
 
