@@ -1,6 +1,0 @@
-1- move
-2- seta
-3- cachorro muda
-4- gato aparece e aumenta
-5- sadman
-6- deitado e frog, some o nao
