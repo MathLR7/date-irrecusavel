@@ -136,6 +136,8 @@ footer{
     position: absolute;
     top: 375px;
     left: 800px;
+    
+    z-index: 1;
 }
 
 #b1{
@@ -173,6 +175,8 @@ footer{
     left: 1000px;
 
     opacity: 0;
+    
+    z-index=2;
 
 }
 
