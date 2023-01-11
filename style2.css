@@ -137,7 +137,7 @@ footer{
     top: 375px;
     left: 800px;
     
-
+    z-index: 5;
 }
 
 #b1{
@@ -176,6 +176,7 @@ footer{
 
     opacity: 0;
     
+    z-index: 4444;
 
 }
 
