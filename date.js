@@ -46,5 +46,5 @@ b4.addEventListener("click",function(){
 b5.addEventListener("click",function(){
     b5.style.opacity = "0";
     deitado.style.opacity = "1";
-    /*frog.style.opacity = "1";*/
+    frog.style.opacity = "1";
 });
